@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+	}
+	.container {
+		width: 1170px;
+		margin: 0 auto;
+		background-color: rgb(41, 69, 67);
+	}
+	.info__inner {
+		display: flex;
+		justify-content: space-evenly;		
+		text-transform: uppercase;
+	}
+	.item {
+		margin: 60px;
+	}
+	.number {
+		text-align: center;
+		font-size: 40px;
+		color: rgb(214, 110, 25);
+	}
+	.text {
+		font-size: 10px;
+		color: #fff;
+	}
+	.size {
+		font-size: 80px;
+	}
+	
